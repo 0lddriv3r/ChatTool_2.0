@@ -1,0 +1,5 @@
+org.gjt.mm.mysql.Driver
+jdbc:mysql://127.0.0.1:3306/ChatTool_2.0
+root
+123456
+
